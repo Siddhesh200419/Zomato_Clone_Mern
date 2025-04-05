@@ -8,7 +8,7 @@ import Add from "./pages/Add/Add";
 import { ToastContainer } from "react-toastify";
 
 function App() {
-  const url = "http://localhost:4000";
+  const url = "https://zomato-clone-mern.onrender.com";
   return (
     <div>
       <ToastContainer />
