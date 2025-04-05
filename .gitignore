@@ -1,0 +1,14 @@
+# Ignore node_modules in all folders
+**/node_modules
+
+# Ignore environment variables
+**/.env
+
+# OS-related
+.DS_Store
+
+# Logs
+**/logs
+*.log
+
+
