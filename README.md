@@ -50,7 +50,7 @@ Zomato_Clone_MERN/
 
 ---
 
-## 🗼️ Screenshots (Optional)
+## 🗼️ Screenshots 
 
 > Include images/GIFs of:
 > - Home Page
@@ -67,9 +67,9 @@ Zomato_Clone_MERN/
 
 
 > - Admin dashboard overview
-> - <img width="960" alt="image" src="https://github.com/user-attachments/assets/99ff3326-5d0f-4ff5-bc83-bd241135d26c" />
-> - <img width="960" alt="image" src="https://github.com/user-attachments/assets/9285f3ce-663f-46cc-9470-736c534ba8c4" />
 > - <img width="960" alt="image" src="https://github.com/user-attachments/assets/6c5d0bf7-767c-4f81-b5f1-274ac42f9693" />
+> - <img width="960" alt="image" src="https://github.com/user-attachments/assets/9285f3ce-663f-46cc-9470-736c534ba8c4" />
+> - <img width="960" alt="image" src="https://github.com/user-attachments/assets/99ff3326-5d0f-4ff5-bc83-bd241135d26c" /> 
 
 
 
