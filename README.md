@@ -99,13 +99,11 @@ JWT_SECRET=your_jwt_secret_key
 
 ---
 
-## 🌐 Live Demo (Optional)
-
-| Platform         | Link                              |
-|------------------|-----------------------------------|
-| Frontend App     | [Live Link](#)                    |
-| Admin Dashboard  | [Live Link](#)                    |
-| API Docs         | [Swagger/Postman](#) *(optional)* |
+🌐 Live Demo
+Platform	Link
+Frontend App	https://zomato-clone-mern-frontend.onrender.com
+Admin Dashboard	https://zomato-clone-mern-admin.onrender.com
+API Docs	https://zomato-clone-mern.onrender.com (Swagger/Postman optional)
 
 ---
 
