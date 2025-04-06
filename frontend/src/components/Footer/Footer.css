@@ -17,6 +17,15 @@
   gap: 80px;
 }
 
+.footer-content-left img {
+  width: 90px;
+  height: auto;
+  padding: 0;
+  background-color: transparent;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
 .footer-content-left,
 .footer-content-right,
 .footer-content-center {
@@ -51,6 +60,20 @@
   margin: 20px 0;
   background-color: grey;
   border: none;
+}
+
+@media (max-width: 1050px) {
+  .footer-content-left img {
+    width: 80px;
+    height: 80px;
+  }
+}
+
+@media (max-width: 900px) {
+  .footer-content-left img {
+    width: 70px;
+    height: 70px;
+  }
 }
 
 @media (max-width: 750px) {
