@@ -53,10 +53,25 @@ Zomato_Clone_MERN/
 ## 🗼️ Screenshots (Optional)
 
 > Include images/GIFs of:
-> - Homepage with restaurant listings  
-> - Food details page  
-> - Cart and checkout flow  
-> - Admin dashboard overview  
+> - Home Page
+> - <img width="960" alt="image" src="https://github.com/user-attachments/assets/a232fd09-63e1-4a20-8943-52c1a7439fab" />
+> - <img width="960" alt="image" src="https://github.com/user-attachments/assets/d1aac904-a741-4fe6-a8a7-779c1a1cb212" />
+> - Register
+> - ![3rd](https://github.com/user-attachments/assets/c96956ec-8cd5-4b89-aa11-c64476f45faa)
+> - ![4th](https://github.com/user-attachments/assets/fb377099-bf7d-4a4a-9dc4-7d9bc62c1fb1)
+> - Cart and checkout flow
+> - <img width="960" alt="image" src="https://github.com/user-attachments/assets/c46fc565-e292-4254-8b8d-576d96df0377" />
+> - <img width="960" alt="image" src="https://github.com/user-attachments/assets/517d148f-7cea-468b-b47f-13f90a81ed4a" />
+> - <img width="960" alt="image" src="https://github.com/user-attachments/assets/8a1cc554-bbaa-4b14-b658-e628820a5dc2" />
+
+
+
+> - Admin dashboard overview
+> - <img width="960" alt="image" src="https://github.com/user-attachments/assets/99ff3326-5d0f-4ff5-bc83-bd241135d26c" />
+> - <img width="960" alt="image" src="https://github.com/user-attachments/assets/9285f3ce-663f-46cc-9470-736c534ba8c4" />
+> - <img width="960" alt="image" src="https://github.com/user-attachments/assets/6c5d0bf7-767c-4f81-b5f1-274ac42f9693" />
+
+
 
 ---
 
@@ -88,7 +103,7 @@ npm run dev
 ```bash
 cd ../admin
 npm install
-npm start
+npm run dev
 ```
 
 > ✅ **Note**: Don’t forget to add your environment variables in `backend/.env`:
@@ -103,7 +118,7 @@ JWT_SECRET=your_jwt_secret_key
 Platform	Link
 Frontend App	https://zomato-clone-mern-frontend.onrender.com
 Admin Dashboard	https://zomato-clone-mern-admin.onrender.com
-API Docs	https://zomato-clone-mern.onrender.com (Swagger/Postman optional)
+API Docs	https://zomato-clone-mern.onrender.com (Thunder Client / Postman optional)
 
 ---
 
