@@ -125,7 +125,7 @@ API Docs	https://zomato-clone-mern.onrender.com (Thunder Client / Postman option
 ## 🙌 Acknowledgements
 
 > Inspired by **Zomato** for educational & learning purposes.  
-
+> Made with ❤️ by **Sid**.
 
 ---
 
