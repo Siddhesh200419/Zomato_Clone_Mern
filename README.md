@@ -118,8 +118,6 @@ JWT_SECRET=your_jwt_secret_key
 Platform	Link
 Frontend App	https://zomato-clone-mern-frontend.onrender.com
 Admin Dashboard	https://zomato-clone-mern-admin.onrender.com
-API Docs	https://zomato-clone-mern.onrender.com (Thunder Client / Postman optional)
-
 ---
 
 ## 🙌 Acknowledgements
@@ -129,9 +127,4 @@ API Docs	https://zomato-clone-mern.onrender.com (Thunder Client / Postman option
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
