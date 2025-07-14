@@ -42,11 +42,11 @@ Zomato_Clone_MERN/
 
 | Category      | Tech Used                             |
 |---------------|----------------------------------------|
-| **Frontend**  | React.js, TailwindCSS / Bootstrap      |
+| **Frontend**  | React.js, Css                          |
 | **Backend**   | Node.js, Express.js                    |
 | **Database**  | MongoDB (Atlas)                        |
 | **Auth**      | JWT, bcrypt                            |
-| **Deployment**| Railway / Render / Vercel (your pick)  |
+| **Deployment**|  Render                                |
 
 ---
 
